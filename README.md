@@ -26,4 +26,4 @@ I build intelligent, user-focused web experiences — blending code, creativity,
 ---
 
 ### 📊 GitHub Stats  
-![Daniel's GitHub stats](https://github-readme-stats.vercel.app/api?username=danielparreno&show_icons=true&theme=tokyonight)
+![Daniel's GitHub stats](https://github-readme-stats.vercel.app/api?username=raidenahnie&show_icons=true&theme=tokyonight)
