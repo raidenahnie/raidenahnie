@@ -1,4 +1,4 @@
-# Hi, I'm Daniel Parreño 👋  
+# Hi, I'm Daniel Kyle Parreño 👋  
 
 💻 **Web Developer | AI Explorer | Creative Technologist**  
 I build intelligent, user-focused web experiences — blending code, creativity, and curiosity.  
