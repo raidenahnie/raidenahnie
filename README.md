@@ -22,8 +22,3 @@ I build intelligent, user-focused web experiences — blending code, creativity,
 ![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=white)
 ![Laravel](https://img.shields.io/badge/-Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-
----
-
-### 📊 GitHub Stats  
-![Daniel's GitHub stats](https://github-readme-stats.vercel.app/api?username=raidenahnie&show_icons=true&theme=tokyonight)
